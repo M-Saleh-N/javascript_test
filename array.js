@@ -16,3 +16,8 @@ console.log(fruits)
 console.log(fruits.includes("kiwi"))
 
 console.log(fruits.length)
+
+fruits.forEach(function(i) {
+    console.log(i.toUpperCase())
+})
+
