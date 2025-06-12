@@ -21,3 +21,5 @@ fruits.forEach(function(i) {
     console.log(i.toUpperCase())
 })
 
+const fruitString = fruits.join(", ")
+console.log(fruitString)
