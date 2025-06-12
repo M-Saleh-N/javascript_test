@@ -12,3 +12,6 @@ console.log(fruits)
 
 fruits.reverse()
 console.log(fruits)
+
+console.log(fruits.includes("kiwi"))
+
