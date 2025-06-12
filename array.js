@@ -15,3 +15,4 @@ console.log(fruits)
 
 console.log(fruits.includes("kiwi"))
 
+console.log(fruits.length)
