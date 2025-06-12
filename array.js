@@ -23,3 +23,6 @@ fruits.forEach(function(i) {
 
 const fruitString = fruits.join(", ")
 console.log(fruitString)
+
+const fruitLengths = fruits.map(fruit => fruit.length)
+console.log(fruitLengths)
